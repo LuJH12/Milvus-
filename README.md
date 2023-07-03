@@ -15,8 +15,9 @@
 4. 从以下链接下载适用于 Windows 11 的 Linux 内核更新包：`https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi`，并双击安装。
 5. 重启电脑
 6. 设置 WSL 2 为默认版本：打开 PowerShell，运行以下命令以设置 WSL 2 为默认版本：`wsl --set-default-version 2 `
+至此，我们可以开始安装Docker了
 
-
-
+##
+在此链接下载Docker Desktop安装包[Docker Desktop官网地址](https://www.docker.com/products/docker-desktop/)
 
 待更新。。。
