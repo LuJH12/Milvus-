@@ -24,6 +24,7 @@
 
 # 在Docker下安装Milvus
 下载`milvus-standalone-docker-compose.yml`并手动或使用以下命令将其保存为`docker-compose.yml`
+
 `https://github.com/milvus-io/milvus/releases/download/v2.0.2/milvus-standalone-docker-compose.yml`
 
 
