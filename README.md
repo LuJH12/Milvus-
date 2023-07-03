@@ -17,7 +17,14 @@
 6. 设置 WSL 2 为默认版本：打开 PowerShell，运行以下命令以设置 WSL 2 为默认版本：`wsl --set-default-version 2 `
 至此，我们可以开始安装Docker了
 
-##
-在此链接下载Docker Desktop安装包[Docker Desktop官网地址](https://www.docker.com/products/docker-desktop/)
+## 下载并安装Docker Desktop
+在此链接下载Docker Desktop安装包[官网地址](https://www.docker.com/products/docker-desktop/)
+
+至此，我们应该就可以正常使用Docker了。
+
+# 在Docker下安装Milvus
+下载`milvus-standalone-docker-compose.yml`并手动或使用以下命令将其保存为`docker-compose.yml`
+`https://github.com/milvus-io/milvus/releases/download/v2.0.2/milvus-standalone-docker-compose.yml`
+
 
 待更新。。。
