@@ -18,6 +18,7 @@
 至此，我们可以开始安装Docker了
 
 ## 下载并安装Docker Desktop
+这里主要参考该[文章](https://juejin.cn/post/7161715895029465124)，原文写得更清晰！
 在此链接下载Docker Desktop安装包[官网地址](https://www.docker.com/products/docker-desktop/)
 
 至此，我们应该就可以正常使用Docker了。
