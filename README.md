@@ -30,19 +30,20 @@
 之后，在该路径下打开命令行窗口，输入`docker-compose up -d`并敲回车，等待安装。
 
 在安装成功后，我们就可以在Docker里面看到了(如果看不到端口号的话，点击一下运行就可以)
-![710fec82219d4a905b8052b5e2be6d3](https://github.com/LuJH12/Milvus-install-Window11/assets/78155731/3f2de8a3-541d-4efe-a5dd-e3da05d0dd49)
+![710fec82219d4a905b8052b5e2be6d3](https://github.com/LuJH12/Milvus-install-Window11/assets/78155731/747a25eb-f115-45a0-8963-367a83a86990)
+
 
 这个时候我们并不能很方便的可视化看Milvus，我们可以下载一个官方软件Attu来进行可视化。
 
 # 安装Attu
 进入[下载地址](https://github.com/zilliztech/attu/releases)，选择合适的安装包。
-![48e802231e2ece5da2695e1fc1e5004](https://github.com/LuJH12/Milvus-install-Window11/assets/78155731/1567d7a3-e934-4cda-9569-2744019df932)
+![48e802231e2ece5da2695e1fc1e5004](https://github.com/LuJH12/Milvus-install-Window11/assets/78155731/2e05526d-d0a6-4e52-900a-ae795cb507d6)
 
 在安装完成后，输入Docker里的端口号，点击Connect。
-![bf698c8683d311e0d6462e383018acf](https://github.com/LuJH12/Milvus-install-Window11/assets/78155731/5a7b4a98-cb4d-4229-920a-c8610260e0c0)
+![bf698c8683d311e0d6462e383018acf](https://github.com/LuJH12/Milvus-install-Window11/assets/78155731/23b1090c-ee39-47ee-94d1-ac219137e922)
 
 即可成功的Milvus可视化！
-![0aa9ead8b629d859a6cea0426acf123](https://github.com/LuJH12/Milvus-install-Window11/assets/78155731/fc66a40a-07ed-4469-a5eb-c6b9a9995197)
+![0aa9ead8b629d859a6cea0426acf123](https://github.com/LuJH12/Milvus-install-Window11/assets/78155731/ad91e8bd-277b-4a63-a166-45da377120ed)
 
 
 
